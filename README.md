@@ -1,4 +1,4 @@
-<h2>멋쟁이가 될래</h2>
+<h2>멋쟁이가 될래!</h2>
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yeonwooda&utm_content=farm">
 <img
